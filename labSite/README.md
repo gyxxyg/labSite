@@ -28,3 +28,9 @@ npm run dev
 
 Install `vetur`, `ESLint` in extension store.
 
+## Commit and Merge
+
+* You should commit with meaningful comments.
+* Every pull requests need at least one review.
+* You can't push to master branch directly.
+
