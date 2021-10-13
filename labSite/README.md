@@ -22,6 +22,13 @@ npm install
 npm run dev
 ```
 
+## install iview
+> This is a UI library.
+
+```bash
+npm install view-design --save
+```
+
 ## config vscode
 
 >You can also choose Webstorm to deploy the project.
