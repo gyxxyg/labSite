@@ -22,6 +22,13 @@ npm install
 npm run dev
 ```
 
+## install iview
+> This is a UI library.
+
+```bash
+npm install view-design --save
+```
+
 ## config vscode
 
 >You can also choose Webstorm to deploy the project.
@@ -32,5 +39,5 @@ Install `vetur`, `ESLint` in extension store.
 
 * You should commit with meaningful comments.
 * Every pull requests need at least one review.
-* You can't push to master branch directly.
+* You can't push to master branch directly. 
 
